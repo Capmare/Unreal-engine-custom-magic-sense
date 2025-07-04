@@ -1,4 +1,4 @@
-# Unreal Engine 5 custom magic sense by CAPMARE DAVID NICUSOR for Gameplay Programming course at DAE sem4 
+# Unreal Engine 5 custom magic sense by CAPMARE DAVID NICUSOR 
 
 
 --------------------
